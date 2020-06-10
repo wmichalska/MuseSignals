@@ -1,0 +1,19 @@
+OscP5 2.0.4 infos, comments, questions at http://www.sojamo.de/libraries/oscP5
+
+
+null false 
+ null false 
+TimeStamp, Alpha, Beta, Delta, Gamma, Theta
+2020-06-07 14:46:28.255  INFO 38112 --- [     Thread-166] netP5.UdpServer                          : starting server, listening on port 8085 (0.0.0.0:8085 LCE31694/192.168.178.80:8085)
+null false 
+ null false 
+TimeStamp, Alpha, Beta, Delta, Gamma, Theta
+INSERT INTO examinationVALUES (, 0.28, 0.28, 0.28, 0.28, 0.28) 
+2020-06-07 14:52:45.177  INFO 38112 --- [     Thread-167] netP5.UdpServer                          : Couldn't start UDP server on port 8085 java.net.BindException: Address already in use: bind Is there another application using the same port?
+2020-06-07 14:52:45.177  INFO 38112 --- [     Thread-167] netP5.UdpServer                          : thread interrupted and closed.
+null false 
+ null false 
+TimeStamp, Alpha, Beta, Delta, Gamma, Theta
+INSERT INTO examinationVALUES (, 0.28, 0.28, 0.28, 0.28, 0.28) 
+2020-06-07 14:52:48.951  INFO 38112 --- [     Thread-168] netP5.UdpServer                          : Couldn't start UDP server on port 8085 java.net.BindException: Address already in use: bind Is there another application using the same port?
+2020-06-07 14:52:48.952  INFO 38112 --- [     Thread-168] netP5.UdpServer                          : thread interrupted and closed.
