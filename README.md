@@ -1,7 +1,7 @@
 # MuseSignals
 
-MuseSignals is a web application using spring boot. It is created to collect samples from EEG device: [Muse 2 (Interaxion)] connected to [Mind Monitor]. It is using [OSCP5 library].
-I have made this app for my student project on Wroclaw University of Science and Technology.
+MuseSignals is a web application using spring boot. It was created to collect samples from EEG device: [Muse 2 (Interaxion)] connected to [Mind Monitor]. It is using [OSCP5 library].
+I have made this app as a project on Wroclaw University of Science and Technology.
 
 ![](https://img.mdpi.org/data/wroclaw-uni-science-tech.png)
 
